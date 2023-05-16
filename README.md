@@ -1,5 +1,6 @@
 # AWS Rekognition Application
 ## 安全防護系統的功能介紹
+
 1. 可疑人物: 當店內出現穿著可疑的人，系統進行影像分析後認為是可疑人物，會傳送警示給員工和老闆。
 >* 使用 `PPE detection` 偵測遮掩穿著: 鼻子是否有口罩覆蓋、頭上是否有安全帽覆蓋，以及手上是否有手套覆蓋。
 
@@ -15,6 +16,3 @@
 >* Moderating content 偵測部不當內容: Violence" or "Graphic Violence Or Gore" or "Physical Violence" or "Weapon Violence"
 
 [智慧防護系統](./智慧防護系統_第 9 組_20210907.pdf)
-
-
-
