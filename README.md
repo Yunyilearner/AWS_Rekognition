@@ -15,4 +15,4 @@
 >* `Face comparison` 比對偵測目標與黑名單資料
 >* `Moderating content` 偵測部不當內容: Violence" or "Graphic Violence Or Gore" or "Physical Violence" or "Weapon Violence"
 
-[智慧防護系統](./智慧防護系統_第 9 組_20210907.pdf)
+[智慧防護系統](https://github.com/Yunyilearner/AWS_Rekognition_application/智慧防護系統_第 9 組_20210907.pdf)
